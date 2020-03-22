@@ -51,10 +51,22 @@ When a new topic is added, the partition assignor strategy decides to which the 
 ![Alt text](ScreenShots/Picture4.png?raw=true "Architecture")
 
 
-Performance : 
+## Performance : 
 
 
 ![Alt text](ScreenShots/Picture2.png?raw=true "Architecture")
+
+
+### Round Robin assignment states :  ( Too many shuffles )
+
+![Alt text](ScreenShots/Picture5.png?raw=true "Architecture")
+![Alt text](ScreenShots/Picture6.png?raw=true "Architecture")
+![Alt text](ScreenShots/Picture7.png?raw=true "Architecture")
+
+
+
+
+
 
 
 ## Commands for launching the configuration
