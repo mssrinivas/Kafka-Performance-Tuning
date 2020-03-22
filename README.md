@@ -40,6 +40,10 @@ Rebalancing may occur in four cases here,
 When a new topic is added, the partition assignor strategy decides to which the consumer is the newly added topic assigned. The default partition strategy used by rebalancing is range based, however Kafka provides support for changing the partition strategy when adding a new consumer either in the consumer properties using the partition.assignment.strategy property or programmatically using the Java API. 
 
 
+Example: 
+
+
+
 
 
 
